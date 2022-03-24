@@ -1,6 +1,6 @@
 # Agendalive
 
-<p align="center"> Sistema Web Gestão Financeira </p>
+<p align="center"> Sistema Web de Gerenciamento de Lives Assistidas e Futuras </p>
 <p align="center">
   <a href="#sobre">Sobre</a>
   <a href="#sobre">RoadMap</a>
